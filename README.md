@@ -22,11 +22,11 @@ Even more roles are coming soon. :)
 | [小弟 (黑手黨)](#mafia) | [市長](#mayor) | [Arsonist](#arsonist) | [反傳送](#anti-teleport) |
 | [看門人 (黑手黨)](#mafia)|[工程師](#engineer) | [豺狼](#jackal) | [決勝者](#tie-breaker) |
 | [變身精靈](#morphling) | [警長](#sheriff) | [跟班](#sidekick) | [誘餌](#bait) |
-| [隱藏者](#camouflager) | [Deputy](#deputy) | [禿鷲](#vulture) | [戀人](#lovers) |
+| [隱藏者](#camouflager) | [捕快](#deputy) | [禿鷲](#vulture) | [戀人](#lovers) |
 | [吸血鬼](#vampire) | [執燈人](#lighter) | [律師](#lawyer) | [墨鏡](#sunglasses) |
 | [抹除者](#eraser) | [偵探](#detective) | | [迷你船員](#mini) |
 | [騙術師](#trickster) | [時間之主](#time-master) | | [VIP](#vip) |
-| [清理者](#cleaner) | [軍醫](#medic) |  | [相反移動者](#invert) |
+| [清理者](#cleaner) | [軍醫](#medic) |  | [相反移動](#invert) |
 | [詛咒者](#warlock) | [換票師](#swapper) |
 | [賞金獵人](#bounty-hunter) | [預言家](#seer) |  |
 | [巫師](#witch) | [駭客](#hacker) |  |  |
