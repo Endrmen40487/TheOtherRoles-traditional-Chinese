@@ -24,8 +24,8 @@ Even more roles are coming soon. :)
 | [變身精靈](#morphling) | [警長](#sheriff) | [跟班](#sidekick) | [誘餌](#bait) |
 | [隱藏者](#camouflager) | [Deputy](#deputy) | [禿鷲](#vulture) | [戀人](#lovers) |
 | [吸血鬼](#vampire) | [執燈人](#lighter) | [律師](#lawyer) | [墨鏡](#sunglasses) |
-| [抹除者](#eraser) | [Detective](#detective) | | [迷你船員](#mini) |
-| [騙術師](#trickster) | [Time Master](#time-master) | | [VIP](#vip) |
+| [抹除者](#eraser) | [偵探](#detective) | | [迷你船員](#mini) |
+| [騙術師](#trickster) | [時間之主](#time-master) | | [VIP](#vip) |
 | [清理者](#cleaner) | [軍醫](#medic) |  | [相反移動者](#invert) |
 | [詛咒者](#warlock) | [換票師](#swapper) |
 | [賞金獵人](#bounty-hunter) | [預言家](#seer) |  |
