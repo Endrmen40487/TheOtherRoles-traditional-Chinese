@@ -8,6 +8,9 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 ![eisbison infographic](./Images/TOR_Roles.png)
 
 
+本人第一次在github發東西 若有不好請見諒 本儲藏庫頁面是由[The Other Roles](https://github.com/Eisbison/TheOtherRoles)的模板修改而成
+
+
 # The Other Roles
 
 The **The Other Roles**, is a mod for [Among Us](https://store.steampowered.com/app/945360/Among_Us) which adds many new roles, new [Settings](#settings) and new [Custom Hats](#custom-hats) to the game.
