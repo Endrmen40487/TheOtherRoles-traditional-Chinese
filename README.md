@@ -16,27 +16,27 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 The **The Other Roles**, is a mod for [Among Us](https://store.steampowered.com/app/945360/Among_Us) which adds many new roles, new [Settings](#settings) and new [Custom Hats](#custom-hats) to the game.
 Even more roles are coming soon. :)
 
-| Impostors | Crewmates | Neutral | Modifier |
+| 偽裝者 | 船員 | 中立 | 附加職業 |
 |----------|-------------|-----------------|----------------|
-| [Godfather (Mafia)](#mafia) | [小偷](#shifter) | [小丑](#jester) | [Bloody](#bloody) |
-| [Mafioso (Mafia)](#mafia) | [Mayor](#mayor) | [Arsonist](#arsonist) | [Anti Teleport](#anti-teleport) |
-| [Janitor (Mafia)](#mafia) | [Engineer](#engineer) | [Jackal](#jackal) | [Tie Breaker](#tie-breaker) |
-| [Morphling](#morphling) | [Sheriff](#sheriff) | [Sidekick](#sidekick) | [Bait](#bait) |
-| [Camouflager](#camouflager) | [Deputy](#deputy) | [Vulture](#vulture) | [Lovers](#lovers) |
-| [Vampire](#vampire) | [Lighter](#lighter) | [Lawyer](#lawyer) | [Sunglasses](#sunglasses) |
-| [Eraser](#eraser) | [Detective](#detective) | | [Mini](#mini) |
+| [教父(黑手黨)](#mafia) | [小偷](#shifter) | [小丑](#jester) | [Bloody](#bloody) |
+| [小弟 (黑手黨)](#mafia) | [Mayor](#mayor) | [Arsonist](#arsonist) | [Anti Teleport](#anti-teleport) |
+| [看門人 (黑手黨)](#mafia)|[工程師](#engineer) | [豺狼](#jackal) | [Tie Breaker](#tie-breaker) |
+| [變身精靈](#morphling) | [警長](#sheriff) | [跟班](#sidekick) | [Bait](#bait) |
+| [隱藏者](#camouflager) | [Deputy](#deputy) | [Vulture](#vulture) | [Lovers](#lovers) |
+| [吸血鬼](#vampire) | [Lighter](#lighter) | [Lawyer](#lawyer) | [Sunglasses](#sunglasses) |
+| [抹除者](#eraser) | [Detective](#detective) | | [Mini](#mini) |
 | [Trickster](#trickster) | [Time Master](#time-master) | | [VIP](#vip) |
-| [Cleaner](#cleaner) | [Medic](#medic) |  | [Invert](#invert) |
-| [Warlock](#warlock) | [Swapper](#swapper) |
-| [Bounty Hunter](#bounty-hunter) | [Seer](#seer) |  |
-| [Witch](#witch) | [Hacker](#hacker) |  |  |
-| [Ninja](#ninja) | [Tracker](#tracker) |  |  |
-| [Evil Guesser](#guesser) | [Snitch](#snitch) |  |  |
-|  | [Spy](#spy) |  |  |
-|  | [Portalmaker](#portalmaker) |  |  |
-|  | [Security Guard](#security-guard) |  |  |
+| [清理者](#cleaner) | [軍醫](#medic) |  | [Invert](#invert) |
+| [詛咒者](#warlock) | [換票魳](#swapper) |
+| [賞金獵人](#bounty-hunter) | [Seer](#seer) |  |
+| [巫師](#witch) | [駭客](#hacker) |  |  |
+| [忍者](#ninja) | [Tracker](#tracker) |  |  |
+| [邪惡賭徒](#guesser) | [Snitch](#snitch) |  |  |
+|  | [間諜](#spy) |  |  |
+|  | [傳送者](#portalmaker) |  |  |
+|  | [警衛](#security-guard) |  |  |
 |  | [Medium](#medium) |  |  |
-|  | [Nice Guesser](#guesser) |  |
+|  | [正義賭徒](#guesser) |  |
 
 The [Role Assignment](#role-assignment) sections explains how the roles are being distributed among the players.
 
