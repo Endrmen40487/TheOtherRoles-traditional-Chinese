@@ -27,7 +27,7 @@ Even more roles are coming soon. :)
 | [抹除者](#eraser) | [Detective](#detective) | | [Mini](#mini) |
 | [Trickster](#trickster) | [Time Master](#time-master) | | [VIP](#vip) |
 | [清理者](#cleaner) | [軍醫](#medic) |  | [Invert](#invert) |
-| [詛咒者](#warlock) | [換票魳](#swapper) |
+| [詛咒者](#warlock) | [換票師](#swapper) |
 | [賞金獵人](#bounty-hunter) | [Seer](#seer) |  |
 | [巫師](#witch) | [駭客](#hacker) |  |  |
 | [忍者](#ninja) | [Tracker](#tracker) |  |  |
