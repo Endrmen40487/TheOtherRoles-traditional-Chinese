@@ -45,7 +45,7 @@ The [Role Assignment](#role-assignment) sections explains how the roles are bein
 |----------|-------------|-----------------|
 | 2022.3.29| v4.1.4| [Download](https://github.com/Eisbison/TheOtherRoles/releases/download/v4.1.4/TheOtherRoles.zip)
 |----------|在414之前的版本去找蟑龍牌漢化，此版本為蟑龍漢化的分支，採取更官方式的翻譯(雖然沒差多少)| [link](https://forum.gamer.com.tw/C.php?bsn=39247&snA=444&last=1#down)
-| 2022.3.29| v4.1.3| [Download](https://github.com/Eisbison/TheOtherRoles/releases/download/v4.1.3/TheOtherRoles.zip)
+| 2022.3.29| v4.1.3| [Download](https://github.com/Eisbison/TheOtherRoles/releases/download/v4.1.3/TheOtherRoles.zip
 | 2022.3.29| v4.1.2| [Download](https://forum.gamer.com.tw/C.php?bsn=39247&snA=444&last=1#down)
 | 2022.3.29| v4.1.1| [Download](https://forum.gamer.com.tw/C.php?bsn=39247&snA=444&last=1#down)
 | 2022.3.29| v4.1.0| [Download](https://forum.gamer.com.tw/C.php?bsn=39247&snA=444&last=1#down)
